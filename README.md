@@ -1,4 +1,4 @@
-<a href="https://xedricity.com">TextCaseConverter</a>
+<h1><a href="https://xedricity.com">TextCaseConverter</a></h1>
 <br/>
 Text Case Converter Script
 <br/>
