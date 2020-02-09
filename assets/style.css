@@ -1,0 +1,12 @@
+#btn-submit-wraper{
+	text-align: center;
+}
+.form-control.error {
+    border: 1px solid red;
+}
+.error{
+	color:red;
+}
+.MT{
+	margin-top: 20px;
+}
